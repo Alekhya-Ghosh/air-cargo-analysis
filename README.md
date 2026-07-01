@@ -106,5 +106,5 @@ Charts are saved as interactive HTML files in the `outputs/` folder.
 
 ---
 
-*Built by Alekhya Ghosh | [LinkedIn](https://linkedin.com/in/alekhya-ghosh-0a9963248) | [GitHub](https://github.com/Alekhya-Ghosh)*
+Built by Alekhya Ghosh | [LinkedIn](https://linkedin.com/in/alekhya-ghosh-0a9963248) 
 
